@@ -4,3 +4,5 @@
 target/
 
 src/main/java/com/company/sakila/
+
+applications\.iml
